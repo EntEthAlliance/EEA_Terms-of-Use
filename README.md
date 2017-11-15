@@ -1,2 +1,2 @@
 # EEA_Process
-This repository is created here for discussing EEA Process.
+This repository is created to discuss EEA Process.
