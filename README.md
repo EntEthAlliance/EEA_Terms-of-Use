@@ -9,6 +9,6 @@ Existing Issue:
 
   2/ Provide your comments to the Issue.
 
-  3/ The person that created the Issue will incorporate the agreement in a document uploaded in the /draft/ repository.
+  3/ The person that created the Issue will incorporate the agreement in a document uploaded in the /draft/ folder.
 
   4/ Once the document is agreed by the participants, it will be moved to a new folder called /accepted/.
